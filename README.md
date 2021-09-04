@@ -1,9 +1,10 @@
 ### Olá, Sou Efrain Pantaleon 👋
 
-- 🌱 Atualmente estou aprendendo sobre desenvolvimento web e Sistemas
+- 🌱 Atualmente envolvido com Desenvolvimento Web
 - 🏫 Cursando o 6° periodo do Bacharelado em Ciência e Tecnologia pela UFRN
+- 💻 Enfase em Engenharia da Computação
 - ⚽ Gosto de jogar Futebol 
-- 💻 Interesse em programar IA 
+- 
  ##
 <div>
   <a href="https://github.com/efrainmpp1">
@@ -16,7 +17,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 </div>
   
  ##
