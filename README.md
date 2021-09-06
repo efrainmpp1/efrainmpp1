@@ -3,7 +3,6 @@
 - 🌱 Atualmente envolvido com Desenvolvimento Web
 - 🏫 Cursando o 6° periodo do Bacharelado em Ciência e Tecnologia pela UFRN
 - 💻 Enfase em Engenharia da Computação
-- ⚽ Gosto de jogar Futebol 
  ##
 <div>
   <a href="https://github.com/efrainmpp1">
