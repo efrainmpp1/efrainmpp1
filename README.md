@@ -2,8 +2,8 @@
 - 🇧🇷 I'm Brazilian
 - 🌱 Currently involved with Web Development 
 - 🤖 Venturing into the subjects of Machine Learning and Artificial Intelligence
-- 🏫 Graduate in Ciences and technologhy at Universidade Federal do Rio Grande do Norte (UFRN)
-- 💻 Undergraduate student of Computer Engineering also at UFRN
+- 🏫 Graduate in Computer Engineering and Ciences and technologhy at Universidade Federal do Rio Grande do Norte (UFRN)
+- 💻 Master Degree student in Computer Engineering also at UFRN
  ##
 
 ### **Most used Languages**
