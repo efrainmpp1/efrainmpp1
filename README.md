@@ -1,29 +1,31 @@
-### Hi! I'm Efrain Pantaleon 👋
-- 🇧🇷 I'm Brazilian
-- 🌱 Currently involved with Web Development 
-- 🤖 Venturing into the subjects of Machine Learning and Artificial Intelligence
-- 🏫 Graduate in Computer Engineering and Ciences and technologhy at Universidade Federal do Rio Grande do Norte (UFRN)
-- 💻 Master Degree student in Computer Engineering also at UFRN
- ##
+# Efrain Pantaleon
 
-### **Most used Languages**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-</div>
-  
- ##
-  
- <div> 
-  <a href="https://www.youtube.com/channel/UC1HtbQHeKKExLlir6nVB2_A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/efrainmpp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/efrainmpp" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/uxkgtajwBT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-</div>
+**Computational Physicist | Founder of Pantaleon Systems | M.Sc. in Computer Engineering @ UFRN**
 
+I bridge theoretical physics and high-performance computing to explore quantum gravity, flavour anomalies, and cosmology. Currently developing the **Unified State Function (USF)** framework, which unifies Loop Quantum Gravity, string theory, and holography. My work confronts USF with LHCb data, achieving a 7.5σ resolution of the P5' anomaly.
+
+🔭 **Recent research**  
+- USF vs. LHCb P5' anomaly → Δχ² = 56.5, 7.5σ evidence for geometric modifications  
+- First collider test of a quantum‑gravity effective theory  
+- Predictions for HL‑LHC and Bs→μμ
+
+🏢 **Pantaleon Systems** – R&D in advanced physical models and scientific software.
+
+🌐 **Open source**  
+- [usf-lhc-analysis](https://github.com/yourusername/usf-lhc-analysis) – fully reproducible pipeline for flavour anomaly analysis (MCMC, corner plots, HL‑LHC projection)  
+- More to come...
+
+🛠 **Tech stack**  
+Python | NumPy/SciPy | emcee | corner | matplotlib | ROOT (uproot) | LaTeX | Docker | Conda
+
+📫 **Contact**  
+[Email](mailto:efrain.pantaleon@ufrn.br) | [LinkedIn](https://linkedin.com/in/...) | [GitHub](https://github.com/efrainmpp) | [Pantaleon Systems](https://pantaleonsystems.com) (soon)
+
+🎓 **Education**  
+- M.Sc. in Computer Engineering, UFRN (ongoing) – focus on computational physics and HPC  
+- B.Sc. in Computer Engineering and Science & Technology, UFRN
+
+⚡ **Fun fact** – I started as a web developer and AI enthusiast; now I'm chasing quantum gravity with code.
+
+---
+*“Science is what we understand well enough to explain to a computer.”* – adapted from D. Knuth
