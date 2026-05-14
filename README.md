@@ -13,8 +13,9 @@ I develop the **Unified State Function (USF)** – a framework that merges Loop 
 - **Δχ² = 56.5** improvement over the Standard Model → **7.5σ significance**  
 - **No exotic particles** (leptoquarks, Z', SUSY) – the anomaly is explained by active quantum geometry
 
-📄 **Preprint:** *"Resolving the P5' anomaly with the Unified State Function (USF): a 7.5σ evidence from public LHCb data"*  
-🔗 [arXiv:XXXX.XXXXX] (coming soon) | [GitHub repository](https://github.com/yourusername/usf-lhcb-p5prime-analysis)
+📄 **Preprint:** _Phenomenological constraints on geometric effective couplings using LHCb_ $P_5^{\prime}$ _angular observable data in_ $B^0 \to K^{\ast 0}\mu^+\mu^-$
+
+[GitHub repository](https://github.com/PantaleonSystems/usf-lhcb-p5prime-analysis)
 
 ---
 
@@ -41,7 +42,7 @@ Founder of **Pantaleon Systems** – an R&D initiative focused on:
 
 - **Email:** [efrain.pantaleon@ufrn.br](mailto:efrain.pantaleon@ufrn.br)  
 - **GitHub:** [github.com/efrainmpp](https://github.com/efrainmpp)  
-- **LinkedIn:** [linkedin.com/in/efrainmpp](https://linkedin.com/in/efrainmpp) (crie/atualize seu perfil)  
+- **LinkedIn:** [linkedin.com/in/efrainmpp](https://linkedin.com/in/efrainmpp) 
 - **Pantaleon Systems:** (website coming soon)
 
 ---
@@ -49,10 +50,9 @@ Founder of **Pantaleon Systems** – an R&D initiative focused on:
 ## 🎓 Education
 
 - **M.Sc. in Computer Engineering** – Federal University of Rio Grande do Norte (UFRN)  
-  *Thesis on computational methods for quantum‑gravity phenomenology*  
 - **B.Sc. in Computer Engineering** and **B.Sc. in Science & Technology** – UFRN
 
 ---
 
-*“Science is what we understand well enough to explain to a computer.”*  
-— adapted from Donald Knuth
+*"The people who are crazy enough to think they can change the world are the ones who do."*  
+— Steve Jobs, inspired by Apple's *Think Different* campaign
