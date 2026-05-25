@@ -7,7 +7,7 @@
 
 ## 🔬 Current Research
 
-I develop the **Unified State Function (USF)** – a framework that merges Loop Quantum Gravity, string theory, and holography. My recent work confronts USF with public LHCb data on the **P5' angular anomaly** in $B^0 \to K^{*0} \mu^+ \mu^-$.
+I use the **Unified State Function (USF)** – a framework that merges Loop Quantum Gravity, string theory, and holography. My recent work confronts USF with public LHCb data on the **P5' angular anomaly** in $B^0 \to K^{*0} \mu^+ \mu^-$.
 
 - **First collider test of a quantum‑gravity effective theory**  
 - **Δχ² = 56.5** improvement over the Standard Model → **7.5σ significance**  
